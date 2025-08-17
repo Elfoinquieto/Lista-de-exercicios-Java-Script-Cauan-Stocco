@@ -1,0 +1,14 @@
+.exercicio {
+    padding: 10px;
+    border: 1px, solid;
+    margin-bottom: 15px;
+}
+
+body{
+    background-color: rgb(37, 37, 37);
+    color: white;
+}
+
+button {
+    margin-left: 8px;
+}
